@@ -2,6 +2,8 @@
 [![Build Status](https://travis-ci.org/rockabox/ng-lodash.svg?branch=master)](https://travis-ci.org/rockabox/ng-lodash)
 [![devDependency Status](https://david-dm.org/rockabox/ng-lodash/dev-status.svg)](https://david-dm.org/rockabox/ng-lodash#info=devDependencies)
 
+__This is a fork from the npm package [ng-lodash](https://www.npmjs.com/package/ng-lodash) with the only purpose to publish the last version of the package (0.5.0) to npm, since the last one published in the original repo was 0.2.3__
+
 ng-lodash
 =========
 

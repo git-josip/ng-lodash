@@ -1,5 +1,5 @@
 {
-  "name": "ng-lodash",
+  "name": "ng1-lodash",
   "version": "0.5.0",
   "description": "An Angular module wrapper for lodash",
   "main": "build/ng-lodash.js",
