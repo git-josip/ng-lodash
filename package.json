@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rockabox/ng-lodash.git"
+    "url": "https://github.com/franciscohanna92/ng-lodash"
   },
   "keywords": [
     "nglodash",
